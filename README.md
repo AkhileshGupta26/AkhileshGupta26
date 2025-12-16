@@ -11,7 +11,7 @@
 
 ##  About Me
 
--  Currently working on app development
+-  Currently working on web development
 -  DSA problem solver on LeetCode
 -  Building solutions as an app and web developer
 -  Exploring backend, cloud, and AI/ML
