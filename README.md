@@ -64,14 +64,19 @@
 ---
 
 
-## 🎯 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/AkhilleshGupta26/MoodTune.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhileshgupta&repo=kisan-setu&bg_color=000000&title_color=e63946&text_color=ffffff&icon_color=e63946&hide_border=true" />
+## 🎯 Featured Projects<p align="center">
+  <a href="https://github.com/AkhileshGupta26/sunya">
+    <img 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkhileshGupta26&repo=sunya&bg_color=000000&title_color=e63946&text_color=ffffff&icon_color=e63946&hide_border=true"
+      alt="sunya project"
+    />
   </a>
-  <a href="https://github.com/akhileshgupta/child-welfare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhileshgupta&repo=child-welfare&bg_color=000000&title_color=e63946&text_color=ffffff&icon_color=e63946&hide_border=true" />
+
+  <a href="https://github.com/AkhileshGupta26/Aether2">
+    <img 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkhileshGupta26&repo=Aether2&bg_color=000000&title_color=e63946&text_color=ffffff&icon_color=e63946&hide_border=true"
+      alt="Aether2 project"
+    />
   </a>
 </p>
 
